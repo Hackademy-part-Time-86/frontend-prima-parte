@@ -1,0 +1,20 @@
+:root {
+    --bs-primary-rgb: 255, 152, 0;
+}
+
+/* .bg-primary {
+    background-color: #ff9800 !important;
+} */
+
+
+
+
+/* sm - da smartphone in landscape in su */
+@media screen and (min-width: 576px) {
+    
+}
+
+/* md - da tablet in portrait in su */
+@media screen and (min-width: 768px) {
+    
+}

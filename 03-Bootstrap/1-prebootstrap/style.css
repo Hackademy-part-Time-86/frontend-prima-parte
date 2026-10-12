@@ -1,0 +1,56 @@
+/*
+:root {
+    --primary-color: red;
+
+    font-size: 22px;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: var(--primary-color);
+
+    font-size: 4rem;
+}
+
+h2 {
+    margin-bottom: 2rem;
+    font-size: 2rem;
+}
+
+section {
+    margin-bottom: 2rem;
+    padding: 2rem;
+    background-color: var(--primary-color);
+}
+
+p {
+    1rem = 1 x font-size di base 
+    font-size: 1rem;
+
+    font-size: calc(0.8rem + 1vw);
+}
+*/
+
+
+/* 
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin: 0 auto;     y x 
+    margin-left: auto;
+
+    padding: 24px;
+    width: 400px;   E' NECESSARIO LIMITARE LA width dell'elemneto
+
+    background-color: red;
+}
+*/
